@@ -9,4 +9,6 @@ module.exports = {
 }
 
 // psql -U postgres -d noteful2 -f./src/seeds/seed.noteful.sql
+// createdb -U postgres noteful2
+
 
